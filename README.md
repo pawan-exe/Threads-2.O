@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/borNFxL.png" alt="Threads Logo" width="30"/> Threads Clone
+# <img src="https://i.imgur.com/borNFxL.png" alt="Threads Logo" width="30"/> Threads 2.O
 
 Welcome to the Threads Clone - A Full Stack Social Media App Built with MERN, Socket.io, and Chakra UI.  
 ### Live Website: [Threads](https://threads-clone-wsmh.onrender.com)
